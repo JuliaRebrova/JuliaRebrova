@@ -9,11 +9,15 @@
  <li>Deep Learning</li>
 </ul>
 
+<a href="https://docs.google.com/document/d/1VlfDM2spm0kB8PGjV-TQl9-Qkql0kJXmvnlzCiYGZE0/edit?usp=sharing">Read CV</a>
+
 ### Contacts:
 
 <a href="https://t.me/re8rova" Target="_blank"><img src="https://sun9-54.userapi.com/impg/GJ75A7jGdo7eLubEl8lim9W56rY-w-wb7hs2ig/ndhYQDlvz50.jpg?size=168x164&quality=95&sign=ef36c0673f0649ea8a57e8206f6bc717&type=album" alt="sketch" width=50 height=50>  </a>
 <a href="mailto:juliarebrova1@gmail.com"><img src="https://sun9-32.userapi.com/impg/mtrb_THhb5Rp-Mj98liKtS_V0U87AUTrMuvt8g/9D1dKE64Kis.jpg?size=218x165&quality=95&sign=4be3e7415461d27ce8870ec681a9e495&type=album" alt="sketch" width=60 height=50> </a>
 <a href="https://www.kaggle.com/juliarebrova"><img src="https://sun9-14.userapi.com/impg/3efbp59UOQr7LTYEEjijFjJKdtBu70Jn7bA5bw/RwNSnpLWlz0.jpg?size=136x160&quality=95&sign=6eef3c118d4e9a7ac4dea4f84bc38c89&type=album" alt="sketch" width=50 height=50>  </a>
+
+
 
 
 ### Stack:
