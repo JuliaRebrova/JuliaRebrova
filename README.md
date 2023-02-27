@@ -9,7 +9,7 @@
  <li>Deep Learning</li>
 </ul>
 
-<a href="https://docs.google.com/document/d/1VlfDM2spm0kB8PGjV-TQl9-Qkql0kJXmvnlzCiYGZE0/edit?usp=sharing">Read CV</a>
+<a href="https://drive.google.com/file/d/14Ehiz0yhg-wi7bOjkAmDlNaR5xEDMIxD/view?usp=sharing">Read CV</a>
 
 ### Contacts:
 
