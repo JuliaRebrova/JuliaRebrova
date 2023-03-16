@@ -9,7 +9,7 @@
  <li>Data Analysis</li>
 </ul>
 
-<a href="https://drive.google.com/file/d/14Ehiz0yhg-wi7bOjkAmDlNaR5xEDMIxD/view?usp=sharing">Read CV</a>
+<a href="https://drive.google.com/file/d/1EXZM4Xdi-17WquGbpEFKTDi4sbfM01yZ/view?usp=sharing">Read CV</a>
 
 ### Contacts:
 
