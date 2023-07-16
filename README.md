@@ -16,9 +16,9 @@ Also I develope informational product about news impact on the stocks.
 ### Working projects:
 1. Analysis of investing ideas.  
    This servise parses telegram channes with investing recomendation, detects ticker, date of recomendation, target date and target price of recomendation, collects this data in database, requests to Moscow Exchange API, finds real prices and builds dashbords. So user can visually see, how useful was investing recomendations of the channel.
-2. Our company news detector.
+2. Our company news detector.  
    This servise "reads" a plenty of telegram news, finds ones, connected with our company, and sends these news to special chat for PR-managers.
-3. Jira issues finder.
+3. Jira issues finder.  
    This servise checks Jira issues to be similar to each other and sends the report in an Outlook letter to the managers.
 
 ### Pet projects:
