@@ -1,5 +1,9 @@
-## Hi there 👋 I'm Julia
-### Data Scientist
+## Lead of AI developement in National Settlement Depository <a href="https://www.nsd.ru/en/" Target="_blank"><img width="70" alt="_" src="https://github.com/JuliaRebrova/JuliaRebrova/assets/90173032/7ee7f958-fc84-4b51-ab51-53507b6eb704"></a>
+
+<a href="https://www.linkedin.com/in/julia-re8rova/">Read CV</a>  
+My mission is to extract buisness value from NLP technologies to customers.  
+I help to save time of employees with implementation of AI in their everyday work.  
+Also I develope informational product about news impact on the stocks.  
 
 <b> I'm working with:</b>
 
@@ -9,10 +13,28 @@
  <li>Data Analysis</li>
 </ul>
 
-<a href="https://drive.google.com/file/d/1EXZM4Xdi-17WquGbpEFKTDi4sbfM01yZ/view?usp=sharing">Read CV</a>
+### Working projects:
+1. Analysis of investing ideas.  
+   This servise parses telegram channes with investing recomendation, detects ticker, date of recomendation, target date and target price of recomendation, collects this data in database, requests to Moscow Exchange API, finds real prices and builds dashbords. So user can visually see, how useful was investing recomendations of the channel.
+2. Our company news detector.
+   This servise "reads" a plenty of telegram news, finds ones, connected with our company, and sends these news to special chat for PR-managers.
+3. Jira issues finder.
+   This servise checks Jira issues to be similar to each other and sends the report in an Outlook letter to the managers.
+
+### Pet projects:
+1. Voice messages recognizer.  
+   This telegram bot can text you voice message in Russian language.  
+   <a href="https://github.com/JuliaRebrova/Voice-to-text-bot">Repository</a>  
+   <a href="https://t.me/voice2textRuBot">Try it out!</a>
+2. Game o'clock.  
+   Not professional but fun :)  
+   <a href="https://github.com/JuliaRebrova/game_o_clock">Repository</a> 
+   
+   
 
 ### Contacts:
-
+Tap on icon and write me:  
+<a href="https://www.linkedin.com/in/julia-re8rova/" Target="_blank"><img width="45" src="https://github.com/JuliaRebrova/JuliaRebrova/assets/90173032/49543104-257d-4a9d-b220-501fce295933"> </a>
 <a href="https://t.me/re8rova" Target="_blank"><img src="https://sun9-54.userapi.com/impg/GJ75A7jGdo7eLubEl8lim9W56rY-w-wb7hs2ig/ndhYQDlvz50.jpg?size=168x164&quality=95&sign=ef36c0673f0649ea8a57e8206f6bc717&type=album" alt="sketch" width=50 height=50>  </a>
 <a href="mailto:juliarebrova1@gmail.com"><img src="https://sun9-32.userapi.com/impg/mtrb_THhb5Rp-Mj98liKtS_V0U87AUTrMuvt8g/9D1dKE64Kis.jpg?size=218x165&quality=95&sign=4be3e7415461d27ce8870ec681a9e495&type=album" alt="sketch" width=60 height=50> </a>
 
@@ -20,16 +42,7 @@
 
 
 ### Stack:
-<a href="https://docs.python.org/3/"><img src="https://sun9-53.userapi.com/impg/Yen-WwUi6zPS_mSrC8WNEpXIN9PhLJUYcFoXYg/oWnJy0y2cpQ.jpg?size=440x443&quality=95&sign=faebc7c455333df59fb4085ce7fc5c69&type=album" alt="sketch" width=50 height=50> </a>
-<a href="https://www.sql.ru/docs/"><img src="https://sun9-66.userapi.com/impg/dnkx4ul18iNfr6myaaIr2gdO2kyCDUdUfOTkig/eCZZFr7Tpuw.jpg?size=677x277&quality=95&sign=ef623766ff8ca7782162dbf593d4b8cf&type=album" alt="sketch" width=100 height=50> </a>
-<a href="https://pytorch.org"><img src="https://sun9-75.userapi.com/impg/7hL23FSV0tNIth-n5gx0-_3hz_uMX5LEE1BoPw/FLEcfl0Nlvc.jpg?size=636x157&quality=95&sign=522100fa6a82bf784e70fd647350d56d&type=album" alt="sketch" width=150 height=50> </a>
-<a href="https://keras.io"><img src="https://sun9-77.userapi.com/impg/NyDQUHu5jogwYCyfjLi_A3ubUMZf2yH0yQLTzQ/PqeP9flRl-Y.jpg?size=950x450&quality=95&sign=f97962cc6978a1d3d8cdec0d9f3f9027&type=album" alt="sketch" width=100 height=50> </a>
-
-<!-- <a href="https://pandas.pydata.org/docs/"><img src="https://sun9-14.userapi.com/impg/lQFbyGN1RhLIC7aGjmYwrhHA-v3agk3AYC9e9Q/bcemsdZ_Yck.jpg?size=2367x939&quality=95&sign=dc3266752b1828650a9c99b6c12b96cb&type=album" alt="sketch" width=100 height=50> </a>
-<a href="https://numpy.org"><img src="https://sun9-82.userapi.com/impg/doKqKq9PwayHUCWcI30-jhn3N_AYvbJIiSlN5w/EFG1y_TqksA.jpg?size=636x263&quality=95&sign=8eccc15e59fe8832ea6ce79df6eef3bb&type=album" alt="sketch" width=100 height=50> </a>
-<a href="https://scikit-learn.org/stable/"><img src="https://sun9-29.userapi.com/impg/eP_37AH3eWKPoHumACFOKEJ2GDTfi9JCkVm1sA/wRmKC8wbX3E.jpg?size=611x332&quality=95&sign=fee42c3e3e7efeaa53adff28f5a77ed1&type=album" alt="sketch" width=100 height=50> </a>
-<a href="https://matplotlib.org"><img src="https://sun9-83.userapi.com/impg/wqN7Twnykf57DyAbsCgPApgQqXVZNSizLWR_4Q/CCrkE50t6Qk.jpg?size=2258x459&quality=95&sign=7b549da7180ff9ba7ce01a37ed0e3a17&type=album" alt="sketch" width=150 height=50> </a>
-<a href="https://mediapipe.dev"><img src="https://sun9-84.userapi.com/impg/ILn9XG8C9mp-j_057-jzhkYFc0FOkVK_Qrd1aA/M9ksyN9cLXw.jpg?size=1120x304&quality=95&sign=7beea19f755ce31346738dbf1baece9c&type=album" alt="sketch" width=150 height=50> </a> -->
+Python, SQL, Sklearn, Flask, FastAPI, Docker, Natural Language Processing, Transformers, Spacy, Gensim, DVC, MlFlow, Plotly
 
 
 
